@@ -1,6 +1,6 @@
 ---
 name: apidaze.io
-x-slug: apidazeio
+x-slug: apidaze-io
 description: We Enable Your On-Demand Communication Services. Add Real Time Voice,
   Video, Messaging into your VoIP, Web &amp; Mobile Apps. No CapEx. Pay as you grow.
   100% Freedom.
@@ -8,9 +8,9 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "8"
 x-alexaRank: ""
 tags: apidaze.io
-created: "2018-05-22"
-modified: "2018-05-22"
-url: https://raw.githubusercontent.com/streamdata-gallery-organizations/apidaze-io/master/_listings/apidazeio/apis.md
+created: "2018-05-24"
+modified: "2018-05-24"
+url: https://raw.githubusercontent.com/streamdata-gallery-organizations/apidaze-io/master/_listings/apidaze-io/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
